@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+:root {
+  --ui-header-height: 64px !important; /* Ghi đè biến CSS */
+  --ui-container: 1440px !important; /* Ghi đè biến CSS */
+}
